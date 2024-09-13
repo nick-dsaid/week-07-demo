@@ -1,0 +1,9 @@
+venv
+.env
+__pycache__/
+.idea
+.git
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.DS_Store
